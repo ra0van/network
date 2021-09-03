@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "d5af8e94b623ad15",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc236a765b5a3f1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "655ff0dc254744c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b8f122badce7f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d5082f45e6076e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85ed89636ec669df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.01218795776367
+  },
+  "right": {
+    "id": "796ab8aaaf255995",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da3518f10fa809e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c3f51c28ecc238b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb4ec88e98c1879f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "00d173e9a8747b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa9e1091d47c098",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "edc236a765b5a3f1",
+  "lastOpenFiles": [
+    "Razorpay/Discussions/Mani.md",
+    "Planning/September-2021.md",
+    "Planning/Untitled.md",
+    "Razorpay/Projects/Developer Productivity.md",
+    "Razorpay/Projects/Commissions for X.md",
+    "features/daily-notes.md",
+    "Razorpay/Projects/Process & Systems.md",
+    "Razorpay/Projects/Onboarding APIs.md",
+    "Razorpay/Projects/Untitled.md",
+    "Razorpay/Discussions/Self.md"
+  ]
+}
