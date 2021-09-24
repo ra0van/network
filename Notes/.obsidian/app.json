@@ -1,4 +1,7 @@
 {
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "kubernetes"
+  ]
 }

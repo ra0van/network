@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "afe4bc7de9c4e607",
+        "id": "b5f8b90af92b5afa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech/CacheAccessPatterns.md",
+            "file": "Tech/Kubernetes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/CacheAccessPatterns.md",
+                "file": "Tech/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +85,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/CacheAccessPatterns.md",
+                "file": "Tech/Kubernetes.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,25 +107,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 250.5,
     "collapsed": true
   },
-  "active": "afe4bc7de9c4e607",
+  "active": "b5f8b90af92b5afa",
   "lastOpenFiles": [
-    "Tech/CachingAccessPatterns.md",
+    "Untitled.md",
+    "LRU.md",
+    "Tech/CacheAccessPatterns.md",
     "Tech/Caching.md",
+    "Tech/Redis.md",
+    "Tech/SystemDesign.md",
+    "Tech/CachingAccessPatterns.md",
     "Tech/CachingStragey.md",
     "Tech/ApplicationCaching.md",
-    "Tech/Application Caching.md",
-    "Tech/Elastic Search.md",
-    "Tech/System Design.md",
-    "Tech/Redis.md",
-    "Untitled.md",
-    "Tech/Untitled.md"
+    "Tech/Application Caching.md"
   ]
 }
