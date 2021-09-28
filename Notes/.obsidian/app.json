@@ -2,6 +2,7 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
-    "kubernetes"
+    "kubernetes",
+    "lifecycle"
   ]
 }
