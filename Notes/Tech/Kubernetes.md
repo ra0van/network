@@ -39,5 +39,5 @@ K8s:
 ### Nomenclature 
 - **Cluster**. A kubernetes cluster consists of a set of worker machines called nodes, that run containerized application. Every cluster has atleast one worker node. 
 - **Node**. A worker node hosts the pods that are the components of the application workload. The **[[Control plane]]** manages the worker nodes and the pods in the cluster. (In production, control plane usually runs across multiple computers and a cluster usually runs multiple nodes, providing fault-tolerance and high availability.)
-<img src="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg"  width=400/>
+<img src="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg"  width=600/>
 

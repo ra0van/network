@@ -14,7 +14,19 @@ The kube-apiserver is designed to scale horizontally.
 
 #### kube-scheduler
 - Control plane component that watches for newly created Pods with no assigned node, and selects a node for them to run on.
-- 
 
+#### kube-controller-manager
+- Control plane component that runs controller processes. Logically each controller is a separate process, but to reduce complexity, they are all compiled into a single binary and run in a single process. 
+- Some of these controllers are 
+	- **Node Controller** : Responsible for noticing and responding when node goes down.
+	- **Job Controller** : Watches for job objects that represent one-off tasks, then creates Pods to run those tasks to completion.
+	- **Endpoints Controller** : Populates the endpoints objects. 
+	- **Service Account & Token Controllers** : Create default accounts and API access tokens for new namespaces.
+
+#### cloud-controller-manager
+- 
 ### Todo
 - [ ] Read etcd documentation
+- [ ] What are controller processes?
+- [ ] Read more on endpoints controller
+- [ ] 
