@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "7767fb9a4a74ed22",
+        "id": "a5966fee5a24ab13",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -104,23 +104,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
-  "active": "7767fb9a4a74ed22",
+  "active": "a5966fee5a24ab13",
   "lastOpenFiles": [
-    "Control plane.md",
     "Tech/Kubernetes.md",
+    "Tech/ContainerDesignPatterns.md",
+    "Tech/ElasticSearch.md",
     "Tech/CacheAccessPatterns.md",
-    "Untitled.md",
+    "Control plane.md",
     "Tech/Caching.md",
+    "Untitled.md",
     "DeploymentStrategies.md",
     "LRU.md",
-    "Tech/Redis.md",
-    "Tech/SystemDesign.md",
-    "Tech/CachingAccessPatterns.md"
+    "Tech/Redis.md"
   ]
 }
