@@ -3,6 +3,10 @@
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
     "kubernetes",
-    "lifecycle"
+    "lifecycle",
+    "balancers",
+    "balancer",
+    "Decrypt",
+    "backend"
   ]
 }
