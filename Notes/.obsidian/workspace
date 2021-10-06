@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech/OSI.md",
-            "mode": "source"
+            "file": "Tech/Kubernetes.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "8a4ad16d0435b963",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/OSI.md",
+                "file": "Tech/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/OSI.md",
+                "file": "Tech/Kubernetes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,15 +117,15 @@
   },
   "active": "6ffa7a071ced8ec3",
   "lastOpenFiles": [
+    "Tech/Kubernetes.md",
+    "SystemDesign.md",
+    "Tech/Control plane.md",
+    "Tech/SystemDesign.md",
     "OSI.md",
     "Tech/LoadBalancer.md",
     "Availability Patterns.md",
     "LoadBalancer.md",
     "Tech/BlueGreen-Deployments.md",
-    "Tech/Kubernetes.md",
-    "Tech/ElasticSearch.md",
-    "Tech/DeploymentStrategies.md",
-    "Tech/Control plane.md",
-    "Tech/ContainerDesignPatterns.md"
+    "Tech/ElasticSearch.md"
   ]
 }
