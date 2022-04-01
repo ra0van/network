@@ -24,7 +24,14 @@ The kube-apiserver is designed to scale horizontally.
 	- **Service Account & Token Controllers** : Create default accounts and API access tokens for new namespaces.
 
 #### cloud-controller-manager
-- 
+- CCM is the control plane component that embeds cloud specific control logic. The cloud controller manger lets you link your cluster into your cloud Provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+- The cloud controller manager only runs controllers that are specific to your cloud provider. If you are running Kubernetes on your own premises, or in a learning environment inside your own PC, the cluster does not have a cloud controller manager.
+- As with kube-controller-manager, the cloud-controller-manager combines several logically independent control loops into a single binary that you run as a single process. You can scale horizontally to improve performance or to help tolerate facilities.
+
+The following controllers can have cloud provider dependencies :
+- Node controller : For checking the cloud provider to determine if a node has been deleted in the cloud after it stops responding
+- Route controller : For setting up routes in the underlying cloud infrastructure
+- Service controller : Fore creating, updating and deleting cloud provider load balancers
 ### Todo
 - [ ] Read etcd documentation
 - [ ] What are controller processes?

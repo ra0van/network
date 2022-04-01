@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6ffa7a071ced8ec3",
+        "id": "1f3044d48f5040c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech/Kubernetes.md",
-            "mode": "preview"
+            "file": "Razorpay/Domain/Settlement_to_partner.md.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "8a4ad16d0435b963",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Kubernetes.md",
+                "file": "Razorpay/Domain/Settlement_to_partner.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,18 +86,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Kubernetes.md",
+                "file": "Razorpay/Domain/Settlement_to_partner.md.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "ea4bb1bfed2743bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -107,25 +99,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d32c664b0b84cff7",
+            "type": "leaf",
+            "state": {
+              "type": "hackernews-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
-  "active": "6ffa7a071ced8ec3",
+  "active": "1f3044d48f5040c2",
   "lastOpenFiles": [
-    "Tech/Kubernetes.md",
-    "SystemDesign.md",
-    "Tech/Control plane.md",
-    "Tech/SystemDesign.md",
-    "OSI.md",
-    "Tech/LoadBalancer.md",
-    "Availability Patterns.md",
-    "LoadBalancer.md",
+    "Razorpay/Domain/Settlement_to_partner.md.md",
+    "Tech/CacheAccessPatterns.md",
     "Tech/BlueGreen-Deployments.md",
-    "Tech/ElasticSearch.md"
+    "Tech/Availability Patterns.md",
+    "Travelling/Maldives.md",
+    "Tech/LongPolling.md",
+    "Travelling/BramhatalTrek.md",
+    "Tech/SearchDatabase.md",
+    "Tech/LoadBalancer.md",
+    "Tech/SoftwareEstimation.md"
   ]
 }
