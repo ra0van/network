@@ -1,0 +1,2 @@
+Hexagonal example - https://github.com/Sairyss/domain-driven-hexagon
+DDD lecture flow - https://conferences.oreilly.com/software-architecture/sa-ny-2019/public/schedule/detail/72105.html

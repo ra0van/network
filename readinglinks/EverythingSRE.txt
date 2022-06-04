@@ -1,0 +1,5 @@
+Tooling - https://blog.last9.io/sre-tooling-clever-hans-fallacy/
+Observability	- https://blog.last9.io/need-for-systems-observability/
+SLOs 	- https://medium.com/last9/slos-that-lie-128db934d59b
+p99 -https://medium.com/last9/your-percentiles-are-incorrect-p99-of-the-times-11436c97d524
+Tail latency - https://medium.com/swlh/hedged-requests-tackling-tail-latency-9cea0a05f577

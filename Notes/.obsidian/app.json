@@ -12,5 +12,7 @@
     "Brahmatal"
   ],
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/"
 }

@@ -1,0 +1,24 @@
+Things to keep in mind while writing desinging docs
+	- System context diagram. Where does this fit in current system
+	- APIs & Data storage
+		- Sketch out APIs, but withould from parts that change
+		- Often these make doc verbose, &  contain unncessary detail & get out of date
+	- No code / pseudo code
+	- Degree of constraint 
+		https://www.industrialempathy.com/posts/design-docs-at-google/#degree-of-constraint
+	- Alternatives
+	- Cross cutting concerns
+	Should you write a design doc ?
+		Are you unsure about the right software design, and would it make sense to spend upfront time to gain certainty?
+		Relatedly, would it help to involve senior engineers, who might not be able to review every code-change, in the design?
+		Is the software design ambiguous or even contentious such that achieving organizational consensus around it would be valuable?
+		Does my team sometimes forget to consider privacy, security, logging or other cross-cutting concerns in the design?
+		Is there a strong need for documents that provide high-level insights into the design of legacy systems in the organization?
+
+
+References 
+	- https://www.industrialempathy.com/posts/design-docs-at-google/
+	- https://www.industrialempathy.com/posts/design-doc-a-design-doc/
+
+Design Patterns 
+ - https://docs.microsoft.com/en-us/azure/architecture/patterns/

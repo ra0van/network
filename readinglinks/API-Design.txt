@@ -1,0 +1,5 @@
+Node.js
+	- https://nodejs.org/api/process.html
+	- https://scoutapm.com/blog/nodejs-architecture-and-12-best-practices-for-nodejs-development
+	- Design patterns https://hub.packtpub.com/introduction-nodejs-design-patterns/
+	- https://github.com/nimit95/Real-world-Design-Patterns-Node-JS

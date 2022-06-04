@@ -1,0 +1,9 @@
+Audio related compsci papers
+	-https://github.com/papers-we-love/papers-we-love/tree/master/audio_comp_sci
+Extension (now retired)
+	- https://github.com/0x01h/sci-hub-now
+Spotify engineering
+	- https://engineering.atspotify.com/
+Lossless compression algos
+	- https://aip.scitation.org/doi/pdf/10.1063/1.5002024
+https://medium.com/qvault/building-a-music-video-streaming-server-in-go-using-hls-4baf32f6defc

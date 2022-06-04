@@ -1,0 +1,24 @@
+AcademicPapers
+	Google
+		- https://research.google/pubs/?area=distributed-systems-and-parallel-computing
+		Map reduce [https://research.google/pubs/pub62/]
+		Greedy routing [https://research.google/pubs/pub18700/]
+		Decentralized algorithms using both local and random probes for P2P load balancing [https://research.google/pubs/pub18019/]
+		The Chubby lock service for loosely-coupled distributed systems [https://research.google/pubs/pub27897/]
+		Simple Efficient Load-Balancing Algorithms for Peer-to-Peer Systems [https://research.google/pubs/pub33339/]
+		Distributed Programming with MapReduce [https://research.google/pubs/pub33004/]
+		Architect's dream or developer's nightmare? [https://research.google/pubs/pub33017/]
+		Deployment Archetypes for Cloud Applications [https://research.google/pubs/pub50290/]
+
+Netflix 
+	- https://research.netflix.com/articles?q=Encoding%20%26%20Quality
+
+Spotify 
+	- https://research.atspotify.com/publication/?category=audio-intelligence
+
+Dev prod
+	- https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf
+	- https://queue.acm.org/detail.cfm?id=3454124
+
+Predicting shipping address completeness
+	- https://sigir-ecom.github.io/ecom21Papers/paper25.pdf

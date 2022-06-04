@@ -1,0 +1,19 @@
+Debug Prod Issue
+https://razorpay.slack.com/archives/C927GGCMQ/p1630577927027300
+Partner Id - 6pLAEaTkp0IwO7
+
+
+ { 
+ 	Payment Id - HXflWsuEcjUmPZ
+ 	Merchant Id - BPKQ4usGgUItGt
+ 	merchant_access_map
+ 	ApplicationId - BOD2gXMSseDUSB
+ 	partnerId 
+ 	id				merchant_id		entity_id		entity_type	entity_owner_id	
+	BPKQ57skkXgFur	BPKQ4usGgUItGt	BOD2gXMSseDUSB	application	6pLAEaTkp0IwO7
+
+	implicit_plan_id - FtwUAaINc8mmi5
+
+ }
+
+

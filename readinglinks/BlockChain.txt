@@ -1,0 +1,5 @@
+Building Solidity App
+	- https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b/lessons/LEd98170b1-09f3-4a89-af5f-f54c9788c955
+
+https://hyperledger-fabric.readthedocs.io/en/v0.6/home.html
+https://www.notion.so/Introduction-to-crypto-3cbb909f4b2c43f9827ef94927095da6

@@ -1,0 +1,7 @@
+https://www.thoughtworks.com/about-us/news/2021/thoughtworks-is-collaborating-with-spotify-to-deliver-better-dev?utm_source=twitter&utm_medium=social-organic&utm_campaign=tw-news_2021-09
+
+Backstage explained - https://www.youtube.com/watch?v=KeQnIagZYA4 [TGI Kubernetes]
+	- https://www.youtube.com/watch?v=ajN9-dWSVYs
+
+Clutch by lyft - https://github.com/lyft/clutch
+	

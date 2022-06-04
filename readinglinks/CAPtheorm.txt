@@ -1,0 +1,2 @@
+Explained in english - 
+Proof - https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/

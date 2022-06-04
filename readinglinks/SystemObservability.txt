@@ -1,0 +1,4 @@
+https://medium.com/zolo-engineering/configuring-prometheus-operator-helm-chart-with-aws-eks-c12fac3b671a
+https://levelup.gitconnected.com/distributed-tracing-with-opentelemetry-part-2-cc5a9a8aa88c
+
+Alerts from distributed traces - https://docs.google.com/document/d/1PNEyZLzV25Zo06-ZFWd4AXQ37Vvgsw_Kt4nO_G-PM04/edit#heading=h.2v4b9e2jf7hj
