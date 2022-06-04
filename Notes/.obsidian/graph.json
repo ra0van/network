@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "path:Tech",
-  "showTags": false,
+  "search": "",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Tech",
@@ -39,6 +39,6 @@
   "repelStrength": 10.0702247191011,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6369154844297754,
+  "scale": 0.5845335997202875,
   "close": true
 }
