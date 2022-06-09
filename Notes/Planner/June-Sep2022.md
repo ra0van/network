@@ -12,6 +12,11 @@
 	- Review 
 	- Plan for next day
 
+### Weekly Plan
+- Vitamin D capsule
+- Head bath 3 times per week
+- weekly targets & review (Saturday/Sunday)
+- Call home
 
 ### Habits 
 - **Writing** 3-5 times in a week on a topic of choice
