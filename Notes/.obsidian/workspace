@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "54e097ca09c1db13",
+        "id": "031c42b92d1d67d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Razorpay/WhatsApp.md",
+            "file": "Tech/Rust/RustFundamentals.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Razorpay/WhatsApp.md",
+                "file": "Tech/Rust/RustFundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Razorpay/WhatsApp.md",
+                "file": "Tech/Rust/RustFundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
-  "active": "54e097ca09c1db13",
+  "active": "031c42b92d1d67d3",
   "lastOpenFiles": [
+    "Tech/Rust/RustFundamentals.md",
+    "Excalidraw/RustDataTypes.md",
+    "Excalidraw/RustMacroExplained.png",
+    "Tech/HTTP3.md",
+    "Tech/Control plane.md",
+    "Tech/BasicAuth.md",
     "Razorpay/WhatsApp.md",
     "Planner/June-Sep2022.md",
     "Tech/CacheAccessPatterns.md",
-    "Tech/CDN.md",
-    "DailyLog/June2022.md",
-    "Tech/BasicAuth.md",
-    "Razorpay/Settle_to_partner.md",
-    "Tech/Kubernetes.md",
-    "Tech/Caching.md",
-    "Tech/OutboxPattern.md"
+    "Tech/CDN.md"
   ]
 }

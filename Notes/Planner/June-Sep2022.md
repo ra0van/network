@@ -17,6 +17,11 @@
 - Head bath 3 times per week
 - weekly targets & review (Saturday/Sunday)
 - Call home
+- News item shortlist for InfoQ & Draft on previous topic
+
+### Monthly Plan
+- plan & review for the month
+- Finance statement
 
 ### Habits 
 - **Writing** 3-5 times in a week on a topic of choice
