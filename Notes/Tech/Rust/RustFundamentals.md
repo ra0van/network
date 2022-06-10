@@ -11,7 +11,7 @@
 - **Threads without Data Races** - Rust uses ownership to avoid data races. 
 
 Basics of Rust
-- Ends with .rs files
+- Ends with `.rs` files
 - main() function is beginning of every rust program.
 ```
 fn main() {
@@ -57,6 +57,7 @@ Rust throws warning for unassigned or unused variables. To remove such warnings 
 ##### Data types
 - **Implicit definition** - Rust can infer the type from assigned value
 - **Explicit definition** - `let variable name:datatype = value`
+- **Floating Point** number can be of two types *single-precision **f-32***  and *double-precision **f64*** 
 
 ![[RustDataTypes|500x300]]
 
@@ -66,5 +67,29 @@ Integers can be fixed size & variable size as well. Fixed size Integers can be s
 fn main(){
 	let a:i32 = 24;
 	let b:u64
+	
+	//explicitly define a float type
+	let f1:f32 = 32.9;
+	let f2:f64 = 6789.89;
+	
+	//implicitly define a float type
+	let pi = 3.14;
+	let e = 2.17828;
 }
 ```
+
+##### Strings & Char
+Strings are defined using the `&str` keyword.
+```
+fn main() {
+	let name:&str = "Ravan";
+	println!("Name : {}", name);
+}
+```
+
+#### Arrays
+* In rust array can be only of fixed length. Each element is accessed by index. Index starts with 0.
+* By default, arrays are immutable.
+
+
+
