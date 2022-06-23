@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2551688c3e9a7b",
+        "id": "4ad5c2ed2bb6ddd2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech/HTTP3.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6c20b4f47f0428d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Razorpay/WhatsApp.md",
+            "file": "Razorpay/AnatomyOfARequest.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Razorpay/WhatsApp.md",
+                "file": "Razorpay/AnatomyOfARequest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Razorpay/WhatsApp.md",
+                "file": "Razorpay/AnatomyOfARequest.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,20 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
-  "active": "6c20b4f47f0428d5",
+  "active": "4ad5c2ed2bb6ddd2",
   "lastOpenFiles": [
+    "Razorpay/AnatomyOfARequest.md",
     "Razorpay/WhatsApp.md",
+    "Tech/CacheAccessPatterns.md",
+    "Razorpay/VPA.md",
     "Tech/HTTP3.md",
     "Tech/ElasticSearch.md",
     "Tech/ContainerDesignPatterns.md",
-    "Tech/CacheAccessPatterns.md",
     "Tech/Rust/RustFundamentals.md",
     "BeeKeeping.md",
-    "Excalidraw/RustDataTypes.md",
-    "Planner/June-Sep2022.md",
-    "Excalidraw/RustMacroExplained.png"
+    "Excalidraw/RustDataTypes.md"
   ]
 }
