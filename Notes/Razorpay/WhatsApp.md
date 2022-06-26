@@ -141,3 +141,31 @@ AIs for tech spec :
   - Internal API listed above to be documented
   - DB Schema discussed above to be documented. 
   - Tech stack decisions & details to be added. 
+
+
+***
+
+BVS v/s OBS 
+
+- In Current setup(API), BVS is used for verifying KYC/KYB details. BVS provides a set of APIs for validating & verifying these details. OBS provides options to customise your onboarding flow via orchestration & configuring milestones. But this comes at a cost of additional dev efforts & learning curve involved in understanding the orchestration, rule configuration & milestones of OBS. 
+- For whatsapp Onboarding Usecase, we have only two steps involved in the p2pm validation flow (i.e, POI & Bank Account). Hence, we would not require orchestration & milestones like features provided by OBS. BVS on the other hand, has Ease of integration, Aligns with Monolith's onboarding flow & we can sync the verification info to monolith tables for data sanity purpose. 
+- In future, if our onboarding flow requires any of the features provided by OBS, we can reconsider. 
+
+***
+June 27th Plan
+- API Spec
+	- Go through
+	- Close any open items with kartik
+	- Discuss open points kartik brought up
+- Tech spec
+	- Ask for internal review
+- FE spec
+	- Go through once again
+	- Close open items with Yusuf
+	- Get status update
+- Share OnePager on requirements with Rishabh
+	- Add both approaches
+	- Add priority
+- Review User stories
+- VPA details 
+- Org creation docs go through
