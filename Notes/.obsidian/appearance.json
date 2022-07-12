@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Pisum",
-  "translucency": false
+  "cssTheme": "Yin and Yang",
+  "translucency": false,
+  "theme": "moonstone"
 }

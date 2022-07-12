@@ -169,3 +169,10 @@ June 27th Plan
 - Review User stories
 - VPA details 
 - Org creation docs go through
+
+***
+
+29th June Plan
+
+- Go through Meta<>RZP sync doc
+- Org Creation doc updates 
