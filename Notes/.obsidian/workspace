@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7ba3710772499b",
+        "id": "1e05a0c4c4ebaaa4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planner/July2022.md",
+            "file": "Tech/Authentication.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/July2022.md",
+                "file": "Tech/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/July2022.md",
+                "file": "Tech/Authentication.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,17 +115,17 @@
     "direction": "horizontal",
     "width": 250.5
   },
-  "active": "2c7ba3710772499b",
+  "active": "1e05a0c4c4ebaaa4",
   "lastOpenFiles": [
+    "Razorpay/AnatomyOfARequest.md",
+    "Tech/Authentication.md",
+    "Excalidraw/Drawing 2022-07-20 16.25.59.excalidraw.md",
+    "Excalidraw/Drawing 2022-07-20 16.21.39.excalidraw.md",
+    "Razorpay/WhatsApp.md",
     "Planner/July2022.md",
     "Planner/June-Sep2022.md",
     "Excalidraw/Kubernetes-MasterNode.md",
     "Excalidraw/RustDataTypes.md",
-    "Excalidraw/RustMacroExplained.png",
-    "Tech/Kubernetes/QuickIntro.md",
-    "Tech/Kubernetes/Kubernetes.md",
-    "Excalidraw/Drawing 2022-06-29 17.26.25.excalidraw.md",
-    "Razorpay/WhatsApp.md",
-    "Razorpay/AnatomyOfARequest.md"
+    "Excalidraw/RustMacroExplained.png"
   ]
 }

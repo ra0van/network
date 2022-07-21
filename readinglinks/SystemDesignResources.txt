@@ -4,3 +4,17 @@ https://www.amazon.in/dp/1617292230?tag=cuelinkss21083-21&geniuslink=true
 http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 https://www.amazon.in/Software-Engineering-Google-Lessons-Programming/dp/9352139747/ref=sr_1_3?dchild=1&keywords=Software+Engineering+at+Google&qid=1630477500&sr=8-3
 https://www.allthingsdistributed.com/articles.html
+
+https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/pages/readings/
+https://mitpress.mit.edu/books/distributed-algorithms-second-edition
+https://mitpress.mit.edu/books/technical-debt-practice
+
+https://mitpress.mit.edu/books/prime-number-conspiracy
+https://mitpress.mit.edu/books/beautiful-symmetry
+https://mitpress.mit.edu/books/everyday-chaos
+https://mitpress.mit.edu/books/logic-primer-third-edition
+https://mitpress.mit.edu/books/introduction-natural-language-processing
+
+Data Access patterns - https://medium.com/mastering-software-engineering/data-access-patterns-the-features-of-the-main-data-access-patterns-applied-in-software-industry-6eff86906b4e
+
+Updating lambda when files change - https://spin.atomicobject.com/2019/12/23/update-aws-lambda-function/
